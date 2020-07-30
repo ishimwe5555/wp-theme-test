@@ -5,7 +5,7 @@ To complete this test I had to modify the file 'class-theme-utils.php' so that i
 
 
 ## IMPORTANT RULES I APPLIED BEFORE COMPLETING THIS TEST
-*You I only modify the file **'class-theme-utils.php'**
+*I only modified the file **'class-theme-utils.php'**
 * No hard coded strings EXCEPT for the text inside the header to complete "Hey {your name}"
 * I DID NOT use JavaScript or CSS for this test
 
